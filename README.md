@@ -37,4 +37,4 @@ Analysing-pharmaceutical-sales-data/
 
 ## Project URL
 
-https://github.com/murugalaskhm8-art/Analysing-pharmaceutical-sales-data
+https://murugalaskhm8-art.github.io/Analysing-pharmaceutical-sales-data/
